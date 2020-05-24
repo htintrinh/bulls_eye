@@ -13,6 +13,7 @@
 		50F28F052452FDB200442AC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50F28F042452FDB200442AC1 /* Assets.xcassets */; };
 		50F28F082452FDB200442AC1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50F28F072452FDB200442AC1 /* Preview Assets.xcassets */; };
 		50F28F0B2452FDB200442AC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50F28F092452FDB200442AC1 /* LaunchScreen.storyboard */; };
+		50F28F132453DAE800442AC1 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50F28F122453DAE800442AC1 /* AboutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		50F28F072452FDB200442AC1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		50F28F0A2452FDB200442AC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		50F28F0C2452FDB200442AC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		50F28F122453DAE800442AC1 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				50F28EFE2452FDA100442AC1 /* AppDelegate.swift */,
 				50F28F002452FDA100442AC1 /* SceneDelegate.swift */,
 				50F28F022452FDA100442AC1 /* ContentView.swift */,
+				50F28F122453DAE800442AC1 /* AboutView.swift */,
 				50F28F042452FDB200442AC1 /* Assets.xcassets */,
 				50F28F092452FDB200442AC1 /* LaunchScreen.storyboard */,
 				50F28F0C2452FDB200442AC1 /* Info.plist */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50F28F132453DAE800442AC1 /* AboutView.swift in Sources */,
 				50F28EFF2452FDA100442AC1 /* AppDelegate.swift in Sources */,
 				50F28F012452FDA100442AC1 /* SceneDelegate.swift in Sources */,
 				50F28F032452FDA100442AC1 /* ContentView.swift in Sources */,
